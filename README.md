@@ -1,9 +1,15 @@
 # unity-scripts
 
-Useful resources
+## Resources
+- Unity tutorials
+  + <https://learn.unity.com/tutorials>
+- Unity community
+  + <http://wiki.unity3d.com/index.php/Main_Page>
+- Unity Best Practice
+  + <https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php>
 - Michidk curated collection
   + <https://michidk.github.io/Unity-Script-Collection/>
   + <https://github.com/michidk/Unity-Script-Collection#character-controller>
 - <http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/>
-
-https://thoughtbot.com/blog/how-to-git-with-unity
+- Setting up Unity projects with git
+  + https://thoughtbot.com/blog/how-to-git-with-unity
