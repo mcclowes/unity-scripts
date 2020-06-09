@@ -3,6 +3,8 @@
 ## Resources
 - Unity tutorials
   + <https://learn.unity.com/tutorials>
+- Unity 2d scripts
+  + <https://github.com/Unity-Technologies/2d-extras>
 - Unity community
   + <http://wiki.unity3d.com/index.php/Main_Page>
 - Unity Best Practice
